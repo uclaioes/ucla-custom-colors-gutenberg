@@ -5,6 +5,9 @@ The Gutenberg editor provides a default palette but a theme can overwrite it and
 
 Simply add the code in this repository's `functions.php` to `functions.php` in your WordPress theme or child theme to load the UCLA color palette and remove the default custom color palette. 
 
+## Screenshot
+![UCLA color palette](ucla-custom-colors-gutenberg.png)  
+
 ## Sample code
 
 ```
